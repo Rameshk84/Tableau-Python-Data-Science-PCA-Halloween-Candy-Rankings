@@ -4,10 +4,10 @@
 ## Use data to find the three types of Halloween candy that will make you the most popular house on the block
 
 ## Approach
-## View the data in Python
-## Apply PCA to the data to create a scatter plot in Python
-## Identify clusters and filter the data down to three candies in Tableau
+# View the data in Python
+# Apply PCA to the data to create a scatter plot in Python
+# Identify clusters and filter the data down to three candies in Tableau
 ## My Top Picks
-## A popular candy: Reese's Peanut Butter Cup
-## A popular chocolate option: Twix
-## A popular fruity option: Starburst
+# A popular candy: Reese's Peanut Butter Cup
+# A popular chocolate option: Twix
+# A popular fruity option: Starburst
